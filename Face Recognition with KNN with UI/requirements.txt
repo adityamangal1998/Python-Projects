@@ -27,7 +27,7 @@ google-pasta==0.1.8
 greenlet==0.4.15
 grpcio==1.25.0
 h5py==2.10.0
-html5lib==0.9999999
+html5lib==0.99999999
 idna==2.8
 imutils==0.5.3
 joblib==0.14.0
